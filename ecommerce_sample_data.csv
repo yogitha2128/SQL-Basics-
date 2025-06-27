@@ -1,0 +1,6 @@
+OrderID,CustomerID,OrderDate,ProductID,ProductName,Category,Quantity,Price,TotalAmount,PaymentMethod,OrderStatus
+1001,501,2023-07-01,2001,Laptop,Electronics,1,70000,70000,Credit Card,Delivered
+1002,502,2023-07-02,2002,Headphones,Electronics,2,2000,4000,UPI,Delivered
+1003,503,2023-07-03,2003,Keyboard,Accessories,1,1500,1500,Debit Card,Pending
+1004,501,2023-07-04,2001,Laptop,Electronics,1,70000,70000,Net Banking,Delivered
+1005,504,2023-07-05,2004,Mouse,Accessories,3,500,1500,Cash on Delivery,Cancelled
